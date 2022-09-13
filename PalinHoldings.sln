@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalinHoldings", "PalinHoldings\PalinHoldings.csproj", "{D723CB29-E611-4798-A8E2-79E3E5772B65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D723CB29-E611-4798-A8E2-79E3E5772B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D723CB29-E611-4798-A8E2-79E3E5772B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D723CB29-E611-4798-A8E2-79E3E5772B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D723CB29-E611-4798-A8E2-79E3E5772B65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4406B990-21F9-4107-B186-8F9BB176B992}
+	EndGlobalSection
+EndGlobal
